@@ -1,0 +1,437 @@
+{
+    "0": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Archi",
+            "lastname": "G."
+        },
+        "name": "Evening Walk",
+        "distance": 6697.4,
+        "moving_time": 5565,
+        "elapsed_time": 22633,
+        "total_elevation_gain": 18.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "1": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Bhavna",
+            "lastname": "J."
+        },
+        "name": "My First Night :)",
+        "distance": 6676,
+        "moving_time": 4424,
+        "elapsed_time": 4424,
+        "total_elevation_gain": 28.4,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "2": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Princy",
+            "lastname": "H."
+        },
+        "name": "Day 1",
+        "distance": 6921.8,
+        "moving_time": 4822,
+        "elapsed_time": 82937,
+        "total_elevation_gain": 39,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "3": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Harshita",
+            "lastname": "G."
+        },
+        "name": "Morning Walk ",
+        "distance": 6158.9,
+        "moving_time": 4553,
+        "elapsed_time": 4569,
+        "total_elevation_gain": 35.2,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "4": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Shivangi",
+            "lastname": "D."
+        },
+        "name": "Morning Walk",
+        "distance": 8634.9,
+        "moving_time": 5502,
+        "elapsed_time": 5923,
+        "total_elevation_gain": 58.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "6": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Shivangi",
+            "lastname": "D."
+        },
+        "name": "Morning Walk",
+        "distance": 2024.8,
+        "moving_time": 1669,
+        "elapsed_time": 2574,
+        "total_elevation_gain": 2.3,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "7": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "Morning walk",
+        "distance": 2110.6,
+        "moving_time": 1679,
+        "elapsed_time": 1679,
+        "total_elevation_gain": 16.4,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "8": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "Aweeii",
+        "distance": 2057.1,
+        "moving_time": 2091,
+        "elapsed_time": 2443,
+        "total_elevation_gain": 5.8,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "9": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Afternoon Walk",
+        "distance": 5636.6,
+        "moving_time": 3623,
+        "elapsed_time": 4554,
+        "total_elevation_gain": 30.6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "10": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Afternoon Walk",
+        "distance": 2210,
+        "moving_time": 2073,
+        "elapsed_time": 2073,
+        "total_elevation_gain": 0,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "11": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "Afternoon walk",
+        "distance": 2108.4,
+        "moving_time": 1785,
+        "elapsed_time": 2537,
+        "total_elevation_gain": 19.3,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "12": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Sugandhaa",
+            "lastname": "P."
+        },
+        "name": "Day 3",
+        "distance": 5347.9,
+        "moving_time": 3319,
+        "elapsed_time": 3319,
+        "total_elevation_gain": 32.2,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "13": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Jayasandhya",
+            "lastname": "M."
+        },
+        "name": "Afternoon Walk",
+        "distance": 11003.7,
+        "moving_time": 7603,
+        "elapsed_time": 8052,
+        "total_elevation_gain": 53.6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "14": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Evening Walk",
+        "distance": 3006.8,
+        "moving_time": 1841,
+        "elapsed_time": 2686,
+        "total_elevation_gain": 24.9,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "15": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Harshita",
+            "lastname": "G."
+        },
+        "name": "Evening walk ",
+        "distance": 2786.1,
+        "moving_time": 1774,
+        "elapsed_time": 1794,
+        "total_elevation_gain": 8.9,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "16": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Shivangi",
+            "lastname": "D."
+        },
+        "name": "Evening Walk",
+        "distance": 5313.8,
+        "moving_time": 4491,
+        "elapsed_time": 5171,
+        "total_elevation_gain": 25.1,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "17": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "Evening Walk with buddies \ud83d\ude03",
+        "distance": 8019.5,
+        "moving_time": 6501,
+        "elapsed_time": 6610,
+        "total_elevation_gain": 46.4,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "18": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Shiwangi",
+            "lastname": "M."
+        },
+        "name": "Evening Walk",
+        "distance": 3325.9,
+        "moving_time": 1940,
+        "elapsed_time": 1940,
+        "total_elevation_gain": 23.4,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "19": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Khushi",
+            "lastname": "K."
+        },
+        "name": "Evening Walk",
+        "distance": 7479.5,
+        "moving_time": 4936,
+        "elapsed_time": 6037,
+        "total_elevation_gain": 37.6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "20": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Anupama",
+            "lastname": "R."
+        },
+        "name": "Evening Walk",
+        "distance": 2111.3,
+        "moving_time": 1551,
+        "elapsed_time": 1551,
+        "total_elevation_gain": 7.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "21": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Night Walk",
+        "distance": 10416.1,
+        "moving_time": 6622,
+        "elapsed_time": 6816,
+        "total_elevation_gain": 49.7,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "22": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Anupama",
+            "lastname": "R."
+        },
+        "name": "Evening Walk",
+        "distance": 461.5,
+        "moving_time": 344,
+        "elapsed_time": 344,
+        "total_elevation_gain": 3.4,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "23": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Anupama",
+            "lastname": "R."
+        },
+        "name": "Evening Walk",
+        "distance": 3087.6,
+        "moving_time": 2637,
+        "elapsed_time": 2637,
+        "total_elevation_gain": 20.6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "24": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Bhavna",
+            "lastname": "J."
+        },
+        "name": "Walk #2",
+        "distance": 2033.9,
+        "moving_time": 1649,
+        "elapsed_time": 1921,
+        "total_elevation_gain": 0,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "25": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "Night walk",
+        "distance": 2249.6,
+        "moving_time": 1818,
+        "elapsed_time": 2124,
+        "total_elevation_gain": 21.9,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "27": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Harshita",
+            "lastname": "G."
+        },
+        "name": "Night walk.",
+        "distance": 3338,
+        "moving_time": 2651,
+        "elapsed_time": 2651,
+        "total_elevation_gain": 36.1,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "28": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Night Walk",
+        "distance": 2509.5,
+        "moving_time": 2144,
+        "elapsed_time": 2629,
+        "total_elevation_gain": 12.6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "29": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Anupama",
+            "lastname": "R."
+        },
+        "name": "Night Walk",
+        "distance": 3230.3,
+        "moving_time": 2733,
+        "elapsed_time": 2733,
+        "total_elevation_gain": 19.7,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    "31": {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Shivangi",
+            "lastname": "D."
+        },
+        "name": "Night Walk",
+        "distance": 2252.8,
+        "moving_time": 2089,
+        "elapsed_time": 2356,
+        "total_elevation_gain": 9.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    }
+}
