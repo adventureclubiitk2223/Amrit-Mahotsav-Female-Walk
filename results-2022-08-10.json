@@ -1,5 +1,5 @@
-[
-    {
+{
+    "1": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -14,7 +14,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "2": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -29,7 +29,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "3": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -44,7 +44,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "4": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -59,7 +59,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "5": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -74,7 +74,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "6": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -89,7 +89,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "7": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -104,7 +104,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "8": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -119,7 +119,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "9": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -134,7 +134,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "10": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -149,7 +149,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "11": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -164,7 +164,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "12": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -179,7 +179,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "13": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -194,7 +194,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "14": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -209,7 +209,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "15": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -224,7 +224,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "16": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -239,7 +239,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "17": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -254,7 +254,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "18": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -269,7 +269,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "19": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -284,7 +284,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "20": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -299,7 +299,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "21": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -314,7 +314,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "22": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -329,7 +329,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "23": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -344,7 +344,7 @@
         "type": "Walk",
         "sport_type": "Walk"
     },
-    {
+    "24": {
         "resource_state": 2,
         "athlete": {
             "resource_state": 2,
@@ -359,4 +359,4 @@
         "type": "Walk",
         "sport_type": "Walk"
     }
-]
+}
