@@ -1,0 +1,137 @@
+[
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "First ever Half Century- Dedicated to my Nation #AzadiKaAmritMahotsav #LoveIndia \ud83e\udde1\ud83e\udd0d\ud83d\udc9a",
+        "distance": 51001.8,
+        "moving_time": 41845,
+        "elapsed_time": 49410,
+        "total_elevation_gain": 256.9,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Oeshi",
+            "lastname": "S."
+        },
+        "name": "Evening Walk",
+        "distance": 28013.5,
+        "moving_time": 22053,
+        "elapsed_time": 37737,
+        "total_elevation_gain": 168.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Jayasandhya",
+            "lastname": "M."
+        },
+        "name": "Night Walk",
+        "distance": 19152.9,
+        "moving_time": 12132,
+        "elapsed_time": 19342,
+        "total_elevation_gain": 141.1,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Harshita",
+            "lastname": "G."
+        },
+        "name": "Morning Walk #Azadi ka Amrit Mahotsav#75",
+        "distance": 8219.4,
+        "moving_time": 5012,
+        "elapsed_time": 6644,
+        "total_elevation_gain": 31.7,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Priyadarshini Dwivedi",
+            "lastname": "I."
+        },
+        "name": "Morning Walk",
+        "distance": 16338.3,
+        "moving_time": 11959,
+        "elapsed_time": 12139,
+        "total_elevation_gain": 76,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Oeshi",
+            "lastname": "S."
+        },
+        "name": "The final One for Azadi ka Amrit Mahotsav ",
+        "distance": 5286.7,
+        "moving_time": 4168,
+        "elapsed_time": 4458,
+        "total_elevation_gain": 32.5,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Meeta",
+            "lastname": "B."
+        },
+        "name": "Morning Walk",
+        "distance": 10145,
+        "moving_time": 3923,
+        "elapsed_time": 6257,
+        "total_elevation_gain": 38.7,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "DIKSHA",
+            "lastname": "S."
+        },
+        "name": "The final walk \ud83e\udde1\ud83e\udd0d\ud83d\udc9a",
+        "distance": 3092.3,
+        "moving_time": 2534,
+        "elapsed_time": 4733,
+        "total_elevation_gain": 4.7,
+        "type": "Walk",
+        "sport_type": "Walk"
+    },
+    {
+        "resource_state": 2,
+        "athlete": {
+            "resource_state": 2,
+            "firstname": "Oeshi",
+            "lastname": "S."
+        },
+        "name": "Morning Walk",
+        "distance": 802.8,
+        "moving_time": 756,
+        "elapsed_time": 1767,
+        "total_elevation_gain": 6,
+        "type": "Walk",
+        "sport_type": "Walk"
+    }
+]
